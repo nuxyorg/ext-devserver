@@ -25,9 +25,9 @@
   "bugs": "https://github.com/nuxyorg/ext-devserver/issues",
   "license": "MIT",
   "dependencies": {
-    "@nuxyorg/core": "workspace:*",
-    "@nuxyorg/extension-sdk": "workspace:*",
-    "@nuxyorg/ui-default": "workspace:*",
+    "@nuxyorg/core": "^1.0.1",
+    "@nuxyorg/extension-sdk": "^1.0.1",
+    "@nuxyorg/ui-default": "^1.0.1",
     "lit": "^3.0.0",
     "vite": "^4.4.5"
   },
